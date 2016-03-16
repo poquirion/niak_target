@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:034d4059c9aa54b22ad36a1de8589f803fe85bc6ffbe505d3a411df7a9e89801
-size 498
+MNI Transform File
+%Mon Mar 14 20:33:07 2016>>> xfminvert /tmp//niak_tmp_fp_anat2func_subject1_367038834_coregister/transf_est.xfm /niak/work/target/result/demoniak_preproc/anat/subject1/transf_subject1_nativefunc_to_stereolin.xfm
+
+Transform_Type = Linear;
+Linear_Transform =
+ 0.987541031201643 0.0910835814483901 0.0826809738081613 -11.1953435149821
+ -0.098605756189173 0.9834749455673 0.0943240989371348 -7.84249967403787
+ -0.0801877221425891 -0.111699504698705 1.08081275126698 8.58319223463151;

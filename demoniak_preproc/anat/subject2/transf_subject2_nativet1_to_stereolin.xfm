@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:953281cfc46902cd76daf789deea7771bca91da005419526e137c3d05fb80c16
-size 962
+MNI Transform File
+%Mon Mar 14 20:29:47 2016>>> minctracc -clobber -xcorr -lsq9 -step 4 4 4 -simplex 2 -tol 0.004 -transformation /tmp/niak_bestlinreg.pl-yp6Hwp2R/Sanat_subject2_nuc_nativet1_3.xfm -source_mask /tmp//niak_tmp_fp_t1_preprocess_subject2_288387163_anat_subject2t1_preprocess/anat_subject2_mask_native.mnc -model_mask /niak/work/target/data_test_niak_mnc1//mni_icbm152_asym_09a_5mm/mni_icbm152_t1_tal_nlin_asym_09a_mask_5mm.mnc.gz /tmp/niak_bestlinreg.pl-yp6Hwp2R/Sanat_subject2_nuc_nativet1_4_dxyz.mnc /tmp/niak_bestlinreg.pl-yp6Hwp2R/Tmni_icbm152_t1_tal_nlin_asym_09a_5mm_4_dxyz.mnc /tmp/niak_bestlinreg.pl-yp6Hwp2R/Sanat_subject2_nuc_nativet1_4.xfm
+%(mni_autoreg 0.99.60)
+
+Transform_Type = Linear;
+Linear_Transform =
+ 1.00502216815948 0.00142021011561155 -0.0130212558433414 -0.1541777998209
+ -0.0014791457215324 1.01244473457336 -0.00373927620239556 -0.635111927986145
+ 0.013016845099628 0.00373112503439188 1.00508868694305 -0.744290351867676;

@@ -1,3 +1,10 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9d371ecfbc919f573eb895f65ead5fdf2d7e1613588537f0d409833bed1af966
-size 733
+MNI Transform File
+%Mon Mar 14 20:35:51 2016>>> xfmconcat /niak/work/target/result/demoniak_preproc/anat/subject2/transf_subject2_nativefunc_to_stereolin.xfm /niak/work/target/result/demoniak_preproc/anat/subject2/transf_subject2_stereolin_to_stereonl.xfm /niak/work/target/result/demoniak_preproc/anat/subject2/transf_subject2_nativefunc_to_stereonl.xfm
+
+Transform_Type = Linear;
+Linear_Transform =
+ 0.528982925632211 0.73116603787196 -0.442509134075825 -43.3626597792388
+ -0.609161044674736 -0.0478561082721954 -0.807275059393855 40.4905417259012
+ -0.603952058517656 0.688075886700297 0.414945850758219 -32.9267044923437;
+Transform_Type = Grid_Transform;
+Displacement_Volume = transf_subject2_nativefunc_to_stereonl_grid_0.mnc;
