@@ -1,0 +1,22 @@
+
+******************************
+Log of the (octave) job : gun_check_test_correlation
+Started on 22-Apr-2016 18:17:23
+User: 
+host : d386bfcd7668
+system : unix
+******************************
+Found 53 unique files to compare ...
+    Source: /niak/niak_debug/work/target/result/glm_connectome_unit/data/ground_truth/
+    Target: /niak/niak_debug/work/target/result/glm_connectome_unit/results/
+    Percentage done: 5 10 15 20 25 30 35 40 45 50 55 60 65 70 75 80 85 90 95 100
+Writing report ...
+warning: All files in common were identical, both some files were unique to either SOURCE or TARGET. See /niak/niak_debug/work/target/result/glm_connectome_unit/report_test.csv for more details.
+
+
+The output file or directory /niak/niak_debug/work/target/result/glm_connectome_unit/report_test.csv was successfully generated!
+
+*********************************************************
+22-Apr-2016 18:17:23 : The job was successfully completed
+Total time used to process the job : 0.31 sec.
+*********************************************************
