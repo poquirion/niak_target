@@ -6,9 +6,9 @@ Deleting file '/niak/niak_debug/work/target/result/logs/worker/psom10/new_jobs.r
 
 ******************************
 Log of the (octave) job : gun_network16_glm_corr_vs_age
-Started on 01-Jun-2016 19:00:57
+Started on 01-Jun-2016 19:34:53
 User: 
-host : 8747219a617e
+host : 295bdd45cb7b
 system : unix
 ******************************
 Reading the group model ...
@@ -24,17 +24,17 @@ The output file or directory /niak/niak_debug/work/target/result/glm_connectome_
 The output file or directory /niak/niak_debug/work/target/result/glm_connectome_unit/results/network16/corr_vs_age/perc_disc_corr_vs_age_network16.mnc.gz was successfully generated!
 
 *********************************************************
-01-Jun-2016 19:00:58 : The job was successfully completed
-Total time used to process the job : 1.12 sec.
+01-Jun-2016 19:34:55 : The job was successfully completed
+Total time used to process the job : 1.29 sec.
 *********************************************************
 Deleting file '/niak/niak_debug/work/target/result/logs/worker/psom10/new_jobs.mat' 
 Deleting file '/niak/niak_debug/work/target/result/logs/worker/psom10/new_jobs.ready' 
 
 ******************************
 Log of the (octave) job : gun_permutation_corr_vs_age_batch_2
-Started on 01-Jun-2016 19:00:58
+Started on 01-Jun-2016 19:34:55
 User: 
-host : 8747219a617e
+host : 295bdd45cb7b
 system : unix
 ******************************
 Estimate the significance of the number of findings ...
@@ -44,17 +44,17 @@ Estimate the significance of the number of findings ...
 The output file or directory /niak/niak_debug/work/target/result/glm_connectome_unit/results/permutation_test/permutation_corr_vs_age_batch_2.mat was successfully generated!
 
 *********************************************************
-01-Jun-2016 19:01:06 : The job was successfully completed
-Total time used to process the job : 7.32 sec.
+01-Jun-2016 19:35:03 : The job was successfully completed
+Total time used to process the job : 7.86 sec.
 *********************************************************
 Deleting file '/niak/niak_debug/work/target/result/logs/worker/psom10/new_jobs.mat' 
 Deleting file '/niak/niak_debug/work/target/result/logs/worker/psom10/new_jobs.ready' 
 
 ******************************
 Log of the (octave) job : gcon_connectome_subject1c
-Started on 01-Jun-2016 19:05:32
+Started on 01-Jun-2016 19:39:16
 User: 
-host : 8747219a617e
+host : 295bdd45cb7b
 system : unix
 ******************************
 Reading the networks ...
@@ -70,17 +70,17 @@ The output file or directory /niak/niak_debug/work/target/result/demoniak_glm_co
 The output file or directory /niak/niak_debug/work/target/result/demoniak_glm_connectome/cambridge100bis/individual/connectome_subject1c_cambridge100bis.mat was successfully generated!
 
 *********************************************************
-01-Jun-2016 19:05:36 : The job was successfully completed
-Total time used to process the job : 3.85 sec.
+01-Jun-2016 19:39:20 : The job was successfully completed
+Total time used to process the job : 4.26 sec.
 *********************************************************
 Deleting file '/niak/niak_debug/work/target/result/logs/worker/psom10/new_jobs.mat' 
 Deleting file '/niak/niak_debug/work/target/result/logs/worker/psom10/new_jobs.ready' 
 
 ******************************
 Log of the (octave) job : gcon_connectome_subject2a
-Started on 01-Jun-2016 19:06:01
+Started on 01-Jun-2016 19:39:44
 User: 
-host : 8747219a617e
+host : 295bdd45cb7b
 system : unix
 ******************************
 Reading the networks ...
@@ -97,305 +97,300 @@ The output file or directory /niak/niak_debug/work/target/result/demoniak_glm_co
 The output file or directory /niak/niak_debug/work/target/result/demoniak_glm_connectome/cambridge100bis/individual/connectome_subject2a_cambridge100bis.mat was successfully generated!
 
 *********************************************************
-01-Jun-2016 19:06:11 : The job was successfully completed
-Total time used to process the job : 9.96 sec.
+01-Jun-2016 19:39:52 : The job was successfully completed
+Total time used to process the job : 7.99 sec.
 *********************************************************
 Deleting file '/niak/niak_debug/work/target/result/logs/worker/psom10/new_jobs.mat' 
 Deleting file '/niak/niak_debug/work/target/result/logs/worker/psom10/new_jobs.ready' 
 
 ******************************
-Log of the (octave) job : basc_region_growing_area_2202
-Started on 01-Jun-2016 19:06:11
+Log of the (octave) job : basc_region_growing_area_2211
+Started on 01-Jun-2016 19:39:52
 User: 
-host : 8747219a617e
+host : 295bdd45cb7b
 system : unix
 ******************************
 
 **************
 Region growing
 **************
-Read the time series tseries_2202 from the file /niak/niak_debug/work/target/result/demoniak_stability_rest/areas/tseries_areas_subject1_session1_motor.mat
-Read the time series tseries_2202 from the file /niak/niak_debug/work/target/result/demoniak_stability_rest/areas/tseries_areas_subject2_session1_motor.mat
+Read the time series tseries_2211 from the file /niak/niak_debug/work/target/result/demoniak_stability_rest/areas/tseries_areas_subject1_session1_motor.mat
+Read the time series tseries_2211 from the file /niak/niak_debug/work/target/result/demoniak_stability_rest/areas/tseries_areas_subject2_session1_motor.mat
 Concatenate time series
-Read the neighbourhood information neig_2202 from file /niak/niak_debug/work/target/result/demoniak_stability_rest//areas/brain_areas_neig.mat
-Performing region growing...
-     Initialization of the functional similarity matrix...
-     Number of merging :  9 5 1 1 0     Done ! 
-Saving outputs...
-
-
-The output file or directory /niak/niak_debug/work/target/result/demoniak_stability_rest/areas/part_areas_2202.mat was successfully generated!
-
-*********************************************************
-01-Jun-2016 19:06:11 : The job was successfully completed
-Total time used to process the job : 0.03 sec.
-*********************************************************
-
-******************************
-Log of the (octave) job : basc_region_growing_area_2322
-Started on 01-Jun-2016 19:06:11
-User: 
-host : 8747219a617e
-system : unix
-******************************
-
-**************
-Region growing
-**************
-Read the time series tseries_2322 from the file /niak/niak_debug/work/target/result/demoniak_stability_rest/areas/tseries_areas_subject1_session1_motor.mat
-Read the time series tseries_2322 from the file /niak/niak_debug/work/target/result/demoniak_stability_rest/areas/tseries_areas_subject2_session1_motor.mat
-Concatenate time series
-Read the neighbourhood information neig_2322 from file /niak/niak_debug/work/target/result/demoniak_stability_rest//areas/brain_areas_neig.mat
-Performing region growing...
-     Initialization of the functional similarity matrix...
-     Number of merging :  2 0     Done ! 
-Saving outputs...
-
-
-The output file or directory /niak/niak_debug/work/target/result/demoniak_stability_rest/areas/part_areas_2322.mat was successfully generated!
-
-*********************************************************
-01-Jun-2016 19:06:11 : The job was successfully completed
-Total time used to process the job : 0.02 sec.
-*********************************************************
-Deleting file '/niak/niak_debug/work/target/result/logs/worker/psom10/new_jobs.mat' 
-Deleting file '/niak/niak_debug/work/target/result/logs/worker/psom10/new_jobs.ready' 
-
-******************************
-Log of the (octave) job : fir_region_growing_area_2212
-Started on 01-Jun-2016 19:06:11
-User: 
-host : 8747219a617e
-system : unix
-******************************
-
-**************
-Region growing
-**************
-Read the time series tseries_2212 from the file /niak/niak_debug/work/target/result/demoniak_stability_fir/areas/tseries_areas_subject1_session1_motor.mat
-Read the time series tseries_2212 from the file /niak/niak_debug/work/target/result/demoniak_stability_fir/areas/tseries_areas_subject2_session1_motor.mat
-Concatenate time series
-Read the neighbourhood information neig_2212 from file /niak/niak_debug/work/target/result/demoniak_stability_fir//areas/brain_areas_neig.mat
+Read the neighbourhood information neig_2211 from file /niak/niak_debug/work/target/result/demoniak_stability_rest//areas/brain_areas_neig.mat
 Performing region growing...
      Initialization of the functional similarity matrix...
      Number of merging :  1 0     Done ! 
 Saving outputs...
 
 
-The output file or directory /niak/niak_debug/work/target/result/demoniak_stability_fir/areas/part_areas_2212.mat was successfully generated!
+The output file or directory /niak/niak_debug/work/target/result/demoniak_stability_rest/areas/part_areas_2211.mat was successfully generated!
 
 *********************************************************
-01-Jun-2016 19:06:11 : The job was successfully completed
+01-Jun-2016 19:39:52 : The job was successfully completed
+Total time used to process the job : 0.05 sec.
+*********************************************************
+
+******************************
+Log of the (octave) job : basc_region_growing_area_2332
+Started on 01-Jun-2016 19:39:52
+User: 
+host : 295bdd45cb7b
+system : unix
+******************************
+
+**************
+Region growing
+**************
+Read the time series tseries_2332 from the file /niak/niak_debug/work/target/result/demoniak_stability_rest/areas/tseries_areas_subject1_session1_motor.mat
+Read the time series tseries_2332 from the file /niak/niak_debug/work/target/result/demoniak_stability_rest/areas/tseries_areas_subject2_session1_motor.mat
+Concatenate time series
+Read the neighbourhood information neig_2332 from file /niak/niak_debug/work/target/result/demoniak_stability_rest//areas/brain_areas_neig.mat
+Performing region growing...
+     Initialization of the functional similarity matrix...
+     Number of merging :  3 1 0     Done ! 
+Saving outputs...
+
+
+The output file or directory /niak/niak_debug/work/target/result/demoniak_stability_rest/areas/part_areas_2332.mat was successfully generated!
+
+*********************************************************
+01-Jun-2016 19:39:52 : The job was successfully completed
+Total time used to process the job : 0.05 sec.
+*********************************************************
+Deleting file '/niak/niak_debug/work/target/result/logs/worker/psom10/new_jobs.mat' 
+Deleting file '/niak/niak_debug/work/target/result/logs/worker/psom10/new_jobs.ready' 
+
+******************************
+Log of the (octave) job : fir_region_growing_area_2702
+Started on 01-Jun-2016 19:39:53
+User: 
+host : 295bdd45cb7b
+system : unix
+******************************
+
+**************
+Region growing
+**************
+warning: I could not find the time series tseries_2702 from the file /niak/niak_debug/work/target/result/demoniak_stability_fir/areas/tseries_areas_subject1_session1_motor.mat, I am going to assume that ROI is not in the field of view and produce an empty partition
+
+Read the time series tseries_2702 from the file /niak/niak_debug/work/target/result/demoniak_stability_fir/areas/tseries_areas_subject1_session1_motor.mat
+Read the time series tseries_2702 from the file /niak/niak_debug/work/target/result/demoniak_stability_fir/areas/tseries_areas_subject2_session1_motor.mat
+Saving outputs...
+
+
+The output file or directory /niak/niak_debug/work/target/result/demoniak_stability_fir/areas/part_areas_2702.mat was successfully generated!
+
+*********************************************************
+01-Jun-2016 19:39:53 : The job was successfully completed
+Total time used to process the job : 0.01 sec.
+*********************************************************
+
+******************************
+Log of the (octave) job : rg_region_growing_area_9052
+Started on 01-Jun-2016 19:39:53
+User: 
+host : 295bdd45cb7b
+system : unix
+******************************
+
+**************
+Region growing
+**************
+Read the time series tseries_9052 from the file /niak/niak_debug/work/target/result/demoniak_region_growing/areas/tseries_areas_subject1_session1_motor.mat
+Read the time series tseries_9052 from the file /niak/niak_debug/work/target/result/demoniak_region_growing/areas/tseries_areas_subject2_session1_motor.mat
+Concatenate time series
+Read the neighbourhood information neig_9052 from file /niak/niak_debug/work/target/result/demoniak_region_growing//areas/brain_areas_neig.mat
+Performing region growing...
+     Initialization of the functional similarity matrix...
+     Number of merging :  1 0     Done ! 
+Saving outputs...
+
+
+The output file or directory /niak/niak_debug/work/target/result/demoniak_region_growing/areas/part_areas_9052.mat was successfully generated!
+
+*********************************************************
+01-Jun-2016 19:39:53 : The job was successfully completed
+Total time used to process the job : 0.04 sec.
+*********************************************************
+
+******************************
+Log of the (octave) job : rg_region_growing_area_9130
+Started on 01-Jun-2016 19:39:53
+User: 
+host : 295bdd45cb7b
+system : unix
+******************************
+
+**************
+Region growing
+**************
+Read the time series tseries_9130 from the file /niak/niak_debug/work/target/result/demoniak_region_growing/areas/tseries_areas_subject1_session1_motor.mat
+Read the time series tseries_9130 from the file /niak/niak_debug/work/target/result/demoniak_region_growing/areas/tseries_areas_subject2_session1_motor.mat
+Concatenate time series
+Read the neighbourhood information neig_9130 from file /niak/niak_debug/work/target/result/demoniak_region_growing//areas/brain_areas_neig.mat
+Performing region growing...
+     Initialization of the functional similarity matrix...
+     Number of merging :  0     Done ! 
+Saving outputs...
+
+
+The output file or directory /niak/niak_debug/work/target/result/demoniak_region_growing/areas/part_areas_9130.mat was successfully generated!
+
+*********************************************************
+01-Jun-2016 19:39:53 : The job was successfully completed
+Total time used to process the job : 0.07 sec.
+*********************************************************
+Deleting file '/niak/niak_debug/work/target/result/logs/worker/psom10/new_jobs.mat' 
+Deleting file '/niak/niak_debug/work/target/result/logs/worker/psom10/new_jobs.ready' 
+
+******************************
+Log of the (octave) job : fir_region_growing_area_4101
+Started on 01-Jun-2016 19:39:53
+User: 
+host : 295bdd45cb7b
+system : unix
+******************************
+
+**************
+Region growing
+**************
+Read the time series tseries_4101 from the file /niak/niak_debug/work/target/result/demoniak_stability_fir/areas/tseries_areas_subject1_session1_motor.mat
+Read the time series tseries_4101 from the file /niak/niak_debug/work/target/result/demoniak_stability_fir/areas/tseries_areas_subject2_session1_motor.mat
+Concatenate time series
+Read the neighbourhood information neig_4101 from file /niak/niak_debug/work/target/result/demoniak_stability_fir//areas/brain_areas_neig.mat
+Performing region growing...
+     Initialization of the functional similarity matrix...
+     Number of merging :  1 2 0     Done ! 
+Saving outputs...
+
+
+The output file or directory /niak/niak_debug/work/target/result/demoniak_stability_fir/areas/part_areas_4101.mat was successfully generated!
+
+*********************************************************
+01-Jun-2016 19:39:53 : The job was successfully completed
+Total time used to process the job : 0.04 sec.
+*********************************************************
+
+******************************
+Log of the (octave) job : fir_region_growing_area_5021
+Started on 01-Jun-2016 19:39:53
+User: 
+host : 295bdd45cb7b
+system : unix
+******************************
+
+**************
+Region growing
+**************
+Read the time series tseries_5021 from the file /niak/niak_debug/work/target/result/demoniak_stability_fir/areas/tseries_areas_subject1_session1_motor.mat
+Read the time series tseries_5021 from the file /niak/niak_debug/work/target/result/demoniak_stability_fir/areas/tseries_areas_subject2_session1_motor.mat
+Concatenate time series
+Read the neighbourhood information neig_5021 from file /niak/niak_debug/work/target/result/demoniak_stability_fir//areas/brain_areas_neig.mat
+Performing region growing...
+     Initialization of the functional similarity matrix...
+     Number of merging :  4 4 1 0     Done ! 
+Saving outputs...
+
+
+The output file or directory /niak/niak_debug/work/target/result/demoniak_stability_fir/areas/part_areas_5021.mat was successfully generated!
+
+*********************************************************
+01-Jun-2016 19:39:53 : The job was successfully completed
+Total time used to process the job : 0.05 sec.
+*********************************************************
+
+******************************
+Log of the (octave) job : fir_region_growing_area_6001
+Started on 01-Jun-2016 19:39:53
+User: 
+host : 295bdd45cb7b
+system : unix
+******************************
+
+**************
+Region growing
+**************
+Read the time series tseries_6001 from the file /niak/niak_debug/work/target/result/demoniak_stability_fir/areas/tseries_areas_subject1_session1_motor.mat
+Read the time series tseries_6001 from the file /niak/niak_debug/work/target/result/demoniak_stability_fir/areas/tseries_areas_subject2_session1_motor.mat
+Concatenate time series
+Read the neighbourhood information neig_6001 from file /niak/niak_debug/work/target/result/demoniak_stability_fir//areas/brain_areas_neig.mat
+Performing region growing...
+     Initialization of the functional similarity matrix...
+     Number of merging :  8 2 1 2 0     Done ! 
+Saving outputs...
+
+
+The output file or directory /niak/niak_debug/work/target/result/demoniak_stability_fir/areas/part_areas_6001.mat was successfully generated!
+
+*********************************************************
+01-Jun-2016 19:39:54 : The job was successfully completed
 Total time used to process the job : 0.04 sec.
 *********************************************************
 Deleting file '/niak/niak_debug/work/target/result/logs/worker/psom10/new_jobs.mat' 
 Deleting file '/niak/niak_debug/work/target/result/logs/worker/psom10/new_jobs.ready' 
 
 ******************************
-Log of the (octave) job : fir_region_growing_area_2401
-Started on 01-Jun-2016 19:06:12
+Log of the (octave) job : fir_region_growing_area_6222
+Started on 01-Jun-2016 19:39:54
 User: 
-host : 8747219a617e
+host : 295bdd45cb7b
 system : unix
 ******************************
 
 **************
 Region growing
 **************
-Read the time series tseries_2401 from the file /niak/niak_debug/work/target/result/demoniak_stability_fir/areas/tseries_areas_subject1_session1_motor.mat
-Read the time series tseries_2401 from the file /niak/niak_debug/work/target/result/demoniak_stability_fir/areas/tseries_areas_subject2_session1_motor.mat
+Read the time series tseries_6222 from the file /niak/niak_debug/work/target/result/demoniak_stability_fir/areas/tseries_areas_subject1_session1_motor.mat
+Read the time series tseries_6222 from the file /niak/niak_debug/work/target/result/demoniak_stability_fir/areas/tseries_areas_subject2_session1_motor.mat
 Concatenate time series
-Read the neighbourhood information neig_2401 from file /niak/niak_debug/work/target/result/demoniak_stability_fir//areas/brain_areas_neig.mat
+Read the neighbourhood information neig_6222 from file /niak/niak_debug/work/target/result/demoniak_stability_fir//areas/brain_areas_neig.mat
 Performing region growing...
      Initialization of the functional similarity matrix...
-     Number of merging :  3 2 1 0     Done ! 
+     Number of merging :  4 1 0     Done ! 
 Saving outputs...
 
 
-The output file or directory /niak/niak_debug/work/target/result/demoniak_stability_fir/areas/part_areas_2401.mat was successfully generated!
+The output file or directory /niak/niak_debug/work/target/result/demoniak_stability_fir/areas/part_areas_6222.mat was successfully generated!
 
 *********************************************************
-01-Jun-2016 19:06:12 : The job was successfully completed
+01-Jun-2016 19:39:54 : The job was successfully completed
 Total time used to process the job : 0.05 sec.
 *********************************************************
 
 ******************************
-Log of the (octave) job : fir_region_growing_area_3001
-Started on 01-Jun-2016 19:06:12
+Log of the (octave) job : fir_region_growing_area_7022
+Started on 01-Jun-2016 19:39:54
 User: 
-host : 8747219a617e
+host : 295bdd45cb7b
 system : unix
 ******************************
 
 **************
 Region growing
 **************
-Read the time series tseries_3001 from the file /niak/niak_debug/work/target/result/demoniak_stability_fir/areas/tseries_areas_subject1_session1_motor.mat
-Read the time series tseries_3001 from the file /niak/niak_debug/work/target/result/demoniak_stability_fir/areas/tseries_areas_subject2_session1_motor.mat
+Read the time series tseries_7022 from the file /niak/niak_debug/work/target/result/demoniak_stability_fir/areas/tseries_areas_subject1_session1_motor.mat
+Read the time series tseries_7022 from the file /niak/niak_debug/work/target/result/demoniak_stability_fir/areas/tseries_areas_subject2_session1_motor.mat
 Concatenate time series
-Read the neighbourhood information neig_3001 from file /niak/niak_debug/work/target/result/demoniak_stability_fir//areas/brain_areas_neig.mat
+Read the neighbourhood information neig_7022 from file /niak/niak_debug/work/target/result/demoniak_stability_fir//areas/brain_areas_neig.mat
 Performing region growing...
      Initialization of the functional similarity matrix...
-     Number of merging :  6 1 0     Done ! 
+     Number of merging :  2 0     Done ! 
 Saving outputs...
 
 
-The output file or directory /niak/niak_debug/work/target/result/demoniak_stability_fir/areas/part_areas_3001.mat was successfully generated!
+The output file or directory /niak/niak_debug/work/target/result/demoniak_stability_fir/areas/part_areas_7022.mat was successfully generated!
 
 *********************************************************
-01-Jun-2016 19:06:12 : The job was successfully completed
-Total time used to process the job : 0.05 sec.
-*********************************************************
-
-******************************
-Log of the (octave) job : fir_region_growing_area_4111
-Started on 01-Jun-2016 19:06:12
-User: 
-host : 8747219a617e
-system : unix
-******************************
-
-**************
-Region growing
-**************
-Read the time series tseries_4111 from the file /niak/niak_debug/work/target/result/demoniak_stability_fir/areas/tseries_areas_subject1_session1_motor.mat
-Read the time series tseries_4111 from the file /niak/niak_debug/work/target/result/demoniak_stability_fir/areas/tseries_areas_subject2_session1_motor.mat
-Concatenate time series
-Read the neighbourhood information neig_4111 from file /niak/niak_debug/work/target/result/demoniak_stability_fir//areas/brain_areas_neig.mat
-Performing region growing...
-     Initialization of the functional similarity matrix...
-     Number of merging :  2 2 0     Done ! 
-Saving outputs...
-
-
-The output file or directory /niak/niak_debug/work/target/result/demoniak_stability_fir/areas/part_areas_4111.mat was successfully generated!
-
-*********************************************************
-01-Jun-2016 19:06:12 : The job was successfully completed
-Total time used to process the job : 0.05 sec.
-*********************************************************
-Deleting file '/niak/niak_debug/work/target/result/logs/worker/psom10/new_jobs.mat' 
-Deleting file '/niak/niak_debug/work/target/result/logs/worker/psom10/new_jobs.ready' 
-
-******************************
-Log of the (octave) job : fir_region_growing_area_5022
-Started on 01-Jun-2016 19:06:12
-User: 
-host : 8747219a617e
-system : unix
-******************************
-
-**************
-Region growing
-**************
-Read the time series tseries_5022 from the file /niak/niak_debug/work/target/result/demoniak_stability_fir/areas/tseries_areas_subject1_session1_motor.mat
-Read the time series tseries_5022 from the file /niak/niak_debug/work/target/result/demoniak_stability_fir/areas/tseries_areas_subject2_session1_motor.mat
-Concatenate time series
-Read the neighbourhood information neig_5022 from file /niak/niak_debug/work/target/result/demoniak_stability_fir//areas/brain_areas_neig.mat
-Performing region growing...
-     Initialization of the functional similarity matrix...
-     Number of merging :  5 2 1 0     Done ! 
-Saving outputs...
-
-
-The output file or directory /niak/niak_debug/work/target/result/demoniak_stability_fir/areas/part_areas_5022.mat was successfully generated!
-
-*********************************************************
-01-Jun-2016 19:06:13 : The job was successfully completed
-Total time used to process the job : 0.05 sec.
-*********************************************************
-
-******************************
-Log of the (octave) job : fir_region_growing_area_6002
-Started on 01-Jun-2016 19:06:13
-User: 
-host : 8747219a617e
-system : unix
-******************************
-
-**************
-Region growing
-**************
-Read the time series tseries_6002 from the file /niak/niak_debug/work/target/result/demoniak_stability_fir/areas/tseries_areas_subject1_session1_motor.mat
-Read the time series tseries_6002 from the file /niak/niak_debug/work/target/result/demoniak_stability_fir/areas/tseries_areas_subject2_session1_motor.mat
-Concatenate time series
-Read the neighbourhood information neig_6002 from file /niak/niak_debug/work/target/result/demoniak_stability_fir//areas/brain_areas_neig.mat
-Performing region growing...
-     Initialization of the functional similarity matrix...
-     Number of merging :  8 2 2 1 0     Done ! 
-Saving outputs...
-
-
-The output file or directory /niak/niak_debug/work/target/result/demoniak_stability_fir/areas/part_areas_6002.mat was successfully generated!
-
-*********************************************************
-01-Jun-2016 19:06:13 : The job was successfully completed
-Total time used to process the job : 0.04 sec.
-*********************************************************
-
-******************************
-Log of the (octave) job : fir_region_growing_area_6302
-Started on 01-Jun-2016 19:06:13
-User: 
-host : 8747219a617e
-system : unix
-******************************
-
-**************
-Region growing
-**************
-Read the time series tseries_6302 from the file /niak/niak_debug/work/target/result/demoniak_stability_fir/areas/tseries_areas_subject1_session1_motor.mat
-Read the time series tseries_6302 from the file /niak/niak_debug/work/target/result/demoniak_stability_fir/areas/tseries_areas_subject2_session1_motor.mat
-Concatenate time series
-Read the neighbourhood information neig_6302 from file /niak/niak_debug/work/target/result/demoniak_stability_fir//areas/brain_areas_neig.mat
-Performing region growing...
-     Initialization of the functional similarity matrix...
-     Number of merging :  9 2 2 2 2 1 0     Done ! 
-Saving outputs...
-
-
-The output file or directory /niak/niak_debug/work/target/result/demoniak_stability_fir/areas/part_areas_6302.mat was successfully generated!
-
-*********************************************************
-01-Jun-2016 19:06:13 : The job was successfully completed
-Total time used to process the job : 0.05 sec.
-*********************************************************
-Deleting file '/niak/niak_debug/work/target/result/logs/worker/psom10/new_jobs.mat' 
-Deleting file '/niak/niak_debug/work/target/result/logs/worker/psom10/new_jobs.ready' 
-
-******************************
-Log of the (octave) job : fir_region_growing_area_7101
-Started on 01-Jun-2016 19:06:13
-User: 
-host : 8747219a617e
-system : unix
-******************************
-
-**************
-Region growing
-**************
-Read the time series tseries_7101 from the file /niak/niak_debug/work/target/result/demoniak_stability_fir/areas/tseries_areas_subject1_session1_motor.mat
-Read the time series tseries_7101 from the file /niak/niak_debug/work/target/result/demoniak_stability_fir/areas/tseries_areas_subject2_session1_motor.mat
-Concatenate time series
-Read the neighbourhood information neig_7101 from file /niak/niak_debug/work/target/result/demoniak_stability_fir//areas/brain_areas_neig.mat
-Performing region growing...
-     Initialization of the functional similarity matrix...
-     Number of merging :  2 2 1 0     Done ! 
-Saving outputs...
-
-
-The output file or directory /niak/niak_debug/work/target/result/demoniak_stability_fir/areas/part_areas_7101.mat was successfully generated!
-
-*********************************************************
-01-Jun-2016 19:06:13 : The job was successfully completed
-Total time used to process the job : 0.05 sec.
+01-Jun-2016 19:39:54 : The job was successfully completed
+Total time used to process the job : 0.03 sec.
 *********************************************************
 
 ******************************
 Log of the (octave) job : fir_region_growing_area_8202
-Started on 01-Jun-2016 19:06:13
+Started on 01-Jun-2016 19:39:54
 User: 
-host : 8747219a617e
+host : 295bdd45cb7b
 system : unix
 ******************************
 
@@ -415,15 +410,17 @@ Saving outputs...
 The output file or directory /niak/niak_debug/work/target/result/demoniak_stability_fir/areas/part_areas_8202.mat was successfully generated!
 
 *********************************************************
-01-Jun-2016 19:06:13 : The job was successfully completed
-Total time used to process the job : 0.05 sec.
+01-Jun-2016 19:39:54 : The job was successfully completed
+Total time used to process the job : 0.03 sec.
 *********************************************************
+Deleting file '/niak/niak_debug/work/target/result/logs/worker/psom10/new_jobs.mat' 
+Deleting file '/niak/niak_debug/work/target/result/logs/worker/psom10/new_jobs.ready' 
 
 ******************************
 Log of the (octave) job : fir_region_growing_area_9021
-Started on 01-Jun-2016 19:06:13
+Started on 01-Jun-2016 19:39:54
 User: 
-host : 8747219a617e
+host : 295bdd45cb7b
 system : unix
 ******************************
 
@@ -443,45 +440,15 @@ Saving outputs...
 The output file or directory /niak/niak_debug/work/target/result/demoniak_stability_fir/areas/part_areas_9021.mat was successfully generated!
 
 *********************************************************
-01-Jun-2016 19:06:13 : The job was successfully completed
-Total time used to process the job : 0.03 sec.
-*********************************************************
-Deleting file '/niak/niak_debug/work/target/result/logs/worker/psom10/new_jobs.mat' 
-Deleting file '/niak/niak_debug/work/target/result/logs/worker/psom10/new_jobs.ready' 
-
-******************************
-Log of the (octave) job : basc_region_growing_area_6402
-Started on 01-Jun-2016 19:06:14
-User: 
-host : 8747219a617e
-system : unix
-******************************
-
-**************
-Region growing
-**************
-Read the time series tseries_6402 from the file /niak/niak_debug/work/target/result/demoniak_stability_rest/areas/tseries_areas_subject1_session1_motor.mat
-Read the time series tseries_6402 from the file /niak/niak_debug/work/target/result/demoniak_stability_rest/areas/tseries_areas_subject2_session1_motor.mat
-Concatenate time series
-Read the neighbourhood information neig_6402 from file /niak/niak_debug/work/target/result/demoniak_stability_rest//areas/brain_areas_neig.mat
-Performing region growing...
-     Initialization of the functional similarity matrix...
-     Number of merging :  4 1 1 0     Done ! 
-Saving outputs...
-
-
-The output file or directory /niak/niak_debug/work/target/result/demoniak_stability_rest/areas/part_areas_6402.mat was successfully generated!
-
-*********************************************************
-01-Jun-2016 19:06:14 : The job was successfully completed
+01-Jun-2016 19:39:55 : The job was successfully completed
 Total time used to process the job : 0.04 sec.
 *********************************************************
 
 ******************************
 Log of the (octave) job : fir_region_growing_area_9062
-Started on 01-Jun-2016 19:06:14
+Started on 01-Jun-2016 19:39:55
 User: 
-host : 8747219a617e
+host : 295bdd45cb7b
 system : unix
 ******************************
 
@@ -501,15 +468,15 @@ Saving outputs...
 The output file or directory /niak/niak_debug/work/target/result/demoniak_stability_fir/areas/part_areas_9062.mat was successfully generated!
 
 *********************************************************
-01-Jun-2016 19:06:14 : The job was successfully completed
-Total time used to process the job : 0.04 sec.
+01-Jun-2016 19:39:55 : The job was successfully completed
+Total time used to process the job : 0.05 sec.
 *********************************************************
 
 ******************************
 Log of the (octave) job : fir_region_growing_area_9140
-Started on 01-Jun-2016 19:06:14
+Started on 01-Jun-2016 19:39:55
 User: 
-host : 8747219a617e
+host : 295bdd45cb7b
 system : unix
 ******************************
 
@@ -529,131 +496,275 @@ Saving outputs...
 The output file or directory /niak/niak_debug/work/target/result/demoniak_stability_fir/areas/part_areas_9140.mat was successfully generated!
 
 *********************************************************
-01-Jun-2016 19:06:14 : The job was successfully completed
+01-Jun-2016 19:39:55 : The job was successfully completed
+Total time used to process the job : 0.09 sec.
+*********************************************************
+Deleting file '/niak/niak_debug/work/target/result/logs/worker/psom10/new_jobs.mat' 
+Deleting file '/niak/niak_debug/work/target/result/logs/worker/psom10/new_jobs.ready' 
+
+******************************
+Log of the (octave) job : basc_region_growing_area_4111
+Started on 01-Jun-2016 19:39:55
+User: 
+host : 295bdd45cb7b
+system : unix
+******************************
+
+**************
+Region growing
+**************
+Read the time series tseries_4111 from the file /niak/niak_debug/work/target/result/demoniak_stability_rest/areas/tseries_areas_subject1_session1_motor.mat
+Read the time series tseries_4111 from the file /niak/niak_debug/work/target/result/demoniak_stability_rest/areas/tseries_areas_subject2_session1_motor.mat
+Concatenate time series
+Read the neighbourhood information neig_4111 from file /niak/niak_debug/work/target/result/demoniak_stability_rest//areas/brain_areas_neig.mat
+Performing region growing...
+     Initialization of the functional similarity matrix...
+     Number of merging :  2 1 1 0     Done ! 
+Saving outputs...
+
+
+The output file or directory /niak/niak_debug/work/target/result/demoniak_stability_rest/areas/part_areas_4111.mat was successfully generated!
+
+*********************************************************
+01-Jun-2016 19:39:55 : The job was successfully completed
+Total time used to process the job : 0.04 sec.
+*********************************************************
+
+******************************
+Log of the (octave) job : basc_region_growing_area_5022
+Started on 01-Jun-2016 19:39:55
+User: 
+host : 295bdd45cb7b
+system : unix
+******************************
+
+**************
+Region growing
+**************
+Read the time series tseries_5022 from the file /niak/niak_debug/work/target/result/demoniak_stability_rest/areas/tseries_areas_subject1_session1_motor.mat
+Read the time series tseries_5022 from the file /niak/niak_debug/work/target/result/demoniak_stability_rest/areas/tseries_areas_subject2_session1_motor.mat
+Concatenate time series
+Read the neighbourhood information neig_5022 from file /niak/niak_debug/work/target/result/demoniak_stability_rest//areas/brain_areas_neig.mat
+Performing region growing...
+     Initialization of the functional similarity matrix...
+     Number of merging :  7 1 0     Done ! 
+Saving outputs...
+
+
+The output file or directory /niak/niak_debug/work/target/result/demoniak_stability_rest/areas/part_areas_5022.mat was successfully generated!
+
+*********************************************************
+01-Jun-2016 19:39:55 : The job was successfully completed
+Total time used to process the job : 0.05 sec.
+*********************************************************
+
+******************************
+Log of the (octave) job : basc_region_growing_area_6001
+Started on 01-Jun-2016 19:39:55
+User: 
+host : 295bdd45cb7b
+system : unix
+******************************
+
+**************
+Region growing
+**************
+Read the time series tseries_6001 from the file /niak/niak_debug/work/target/result/demoniak_stability_rest/areas/tseries_areas_subject1_session1_motor.mat
+Read the time series tseries_6001 from the file /niak/niak_debug/work/target/result/demoniak_stability_rest/areas/tseries_areas_subject2_session1_motor.mat
+Concatenate time series
+Read the neighbourhood information neig_6001 from file /niak/niak_debug/work/target/result/demoniak_stability_rest//areas/brain_areas_neig.mat
+Performing region growing...
+     Initialization of the functional similarity matrix...
+     Number of merging :  9 3 1 0     Done ! 
+Saving outputs...
+
+
+The output file or directory /niak/niak_debug/work/target/result/demoniak_stability_rest/areas/part_areas_6001.mat was successfully generated!
+
+*********************************************************
+01-Jun-2016 19:39:55 : The job was successfully completed
 Total time used to process the job : 0.06 sec.
 *********************************************************
 Deleting file '/niak/niak_debug/work/target/result/logs/worker/psom10/new_jobs.mat' 
 Deleting file '/niak/niak_debug/work/target/result/logs/worker/psom10/new_jobs.ready' 
 
 ******************************
-Log of the (octave) job : basc_region_growing_area_8101
-Started on 01-Jun-2016 19:06:14
+Log of the (octave) job : basc_region_growing_area_6221
+Started on 01-Jun-2016 19:39:56
 User: 
-host : 8747219a617e
+host : 295bdd45cb7b
 system : unix
 ******************************
 
 **************
 Region growing
 **************
-Read the time series tseries_8101 from the file /niak/niak_debug/work/target/result/demoniak_stability_rest/areas/tseries_areas_subject1_session1_motor.mat
-Read the time series tseries_8101 from the file /niak/niak_debug/work/target/result/demoniak_stability_rest/areas/tseries_areas_subject2_session1_motor.mat
+Read the time series tseries_6221 from the file /niak/niak_debug/work/target/result/demoniak_stability_rest/areas/tseries_areas_subject1_session1_motor.mat
+Read the time series tseries_6221 from the file /niak/niak_debug/work/target/result/demoniak_stability_rest/areas/tseries_areas_subject2_session1_motor.mat
 Concatenate time series
-Read the neighbourhood information neig_8101 from file /niak/niak_debug/work/target/result/demoniak_stability_rest//areas/brain_areas_neig.mat
+Read the neighbourhood information neig_6221 from file /niak/niak_debug/work/target/result/demoniak_stability_rest//areas/brain_areas_neig.mat
 Performing region growing...
      Initialization of the functional similarity matrix...
-     Number of merging :  0     Done ! 
+     Number of merging :  4 2 0     Done ! 
 Saving outputs...
 
 
-The output file or directory /niak/niak_debug/work/target/result/demoniak_stability_rest/areas/part_areas_8101.mat was successfully generated!
+The output file or directory /niak/niak_debug/work/target/result/demoniak_stability_rest/areas/part_areas_6221.mat was successfully generated!
 
 *********************************************************
-01-Jun-2016 19:06:14 : The job was successfully completed
-Total time used to process the job : 0.11 sec.
+01-Jun-2016 19:39:56 : The job was successfully completed
+Total time used to process the job : 0.03 sec.
 *********************************************************
 
 ******************************
-Log of the (octave) job : basc_region_growing_area_8212
-Started on 01-Jun-2016 19:06:14
+Log of the (octave) job : basc_region_growing_area_7012
+Started on 01-Jun-2016 19:39:56
 User: 
-host : 8747219a617e
+host : 295bdd45cb7b
 system : unix
 ******************************
 
 **************
 Region growing
 **************
-Read the time series tseries_8212 from the file /niak/niak_debug/work/target/result/demoniak_stability_rest/areas/tseries_areas_subject1_session1_motor.mat
-Read the time series tseries_8212 from the file /niak/niak_debug/work/target/result/demoniak_stability_rest/areas/tseries_areas_subject2_session1_motor.mat
+Read the time series tseries_7012 from the file /niak/niak_debug/work/target/result/demoniak_stability_rest/areas/tseries_areas_subject1_session1_motor.mat
+Read the time series tseries_7012 from the file /niak/niak_debug/work/target/result/demoniak_stability_rest/areas/tseries_areas_subject2_session1_motor.mat
 Concatenate time series
-Read the neighbourhood information neig_8212 from file /niak/niak_debug/work/target/result/demoniak_stability_rest//areas/brain_areas_neig.mat
+Read the neighbourhood information neig_7012 from file /niak/niak_debug/work/target/result/demoniak_stability_rest//areas/brain_areas_neig.mat
 Performing region growing...
      Initialization of the functional similarity matrix...
-     Number of merging :  1 0     Done ! 
+     Number of merging :  3 1 0     Done ! 
 Saving outputs...
 
 
-The output file or directory /niak/niak_debug/work/target/result/demoniak_stability_rest/areas/part_areas_8212.mat was successfully generated!
+The output file or directory /niak/niak_debug/work/target/result/demoniak_stability_rest/areas/part_areas_7012.mat was successfully generated!
 
 *********************************************************
-01-Jun-2016 19:06:14 : The job was successfully completed
-Total time used to process the job : 0.08 sec.
+01-Jun-2016 19:39:56 : The job was successfully completed
+Total time used to process the job : 0.05 sec.
 *********************************************************
 
 ******************************
-Log of the (octave) job : basc_region_growing_area_9032
-Started on 01-Jun-2016 19:06:15
+Log of the (octave) job : basc_region_growing_area_8121
+Started on 01-Jun-2016 19:39:56
 User: 
-host : 8747219a617e
+host : 295bdd45cb7b
 system : unix
 ******************************
 
 **************
 Region growing
 **************
-Read the time series tseries_9032 from the file /niak/niak_debug/work/target/result/demoniak_stability_rest/areas/tseries_areas_subject1_session1_motor.mat
-Read the time series tseries_9032 from the file /niak/niak_debug/work/target/result/demoniak_stability_rest/areas/tseries_areas_subject2_session1_motor.mat
+Read the time series tseries_8121 from the file /niak/niak_debug/work/target/result/demoniak_stability_rest/areas/tseries_areas_subject1_session1_motor.mat
+Read the time series tseries_8121 from the file /niak/niak_debug/work/target/result/demoniak_stability_rest/areas/tseries_areas_subject2_session1_motor.mat
 Concatenate time series
-Read the neighbourhood information neig_9032 from file /niak/niak_debug/work/target/result/demoniak_stability_rest//areas/brain_areas_neig.mat
+Read the neighbourhood information neig_8121 from file /niak/niak_debug/work/target/result/demoniak_stability_rest//areas/brain_areas_neig.mat
 Performing region growing...
      Initialization of the functional similarity matrix...
-     Number of merging :  1 1 1 0     Done ! 
+     Number of merging :  1 1 0     Done ! 
 Saving outputs...
 
 
-The output file or directory /niak/niak_debug/work/target/result/demoniak_stability_rest/areas/part_areas_9032.mat was successfully generated!
+The output file or directory /niak/niak_debug/work/target/result/demoniak_stability_rest/areas/part_areas_8121.mat was successfully generated!
 
 *********************************************************
-01-Jun-2016 19:06:15 : The job was successfully completed
+01-Jun-2016 19:39:56 : The job was successfully completed
 Total time used to process the job : 0.04 sec.
 *********************************************************
 Deleting file '/niak/niak_debug/work/target/result/logs/worker/psom10/new_jobs.mat' 
 Deleting file '/niak/niak_debug/work/target/result/logs/worker/psom10/new_jobs.ready' 
 
 ******************************
-Log of the (octave) job : basc_region_growing_area_9081
-Started on 01-Jun-2016 19:06:15
+Log of the (octave) job : basc_region_growing_area_9012
+Started on 01-Jun-2016 19:39:56
 User: 
-host : 8747219a617e
+host : 295bdd45cb7b
 system : unix
 ******************************
 
 **************
 Region growing
 **************
-Read the time series tseries_9081 from the file /niak/niak_debug/work/target/result/demoniak_stability_rest/areas/tseries_areas_subject1_session1_motor.mat
-Read the time series tseries_9081 from the file /niak/niak_debug/work/target/result/demoniak_stability_rest/areas/tseries_areas_subject2_session1_motor.mat
+Read the time series tseries_9012 from the file /niak/niak_debug/work/target/result/demoniak_stability_rest/areas/tseries_areas_subject1_session1_motor.mat
+Read the time series tseries_9012 from the file /niak/niak_debug/work/target/result/demoniak_stability_rest/areas/tseries_areas_subject2_session1_motor.mat
 Concatenate time series
-Read the neighbourhood information neig_9081 from file /niak/niak_debug/work/target/result/demoniak_stability_rest//areas/brain_areas_neig.mat
+Read the neighbourhood information neig_9012 from file /niak/niak_debug/work/target/result/demoniak_stability_rest//areas/brain_areas_neig.mat
 Performing region growing...
      Initialization of the functional similarity matrix...
-     Number of merging :  0     Done ! 
+     Number of merging :  5 3 2 0     Done ! 
 Saving outputs...
 
 
-The output file or directory /niak/niak_debug/work/target/result/demoniak_stability_rest/areas/part_areas_9081.mat was successfully generated!
+The output file or directory /niak/niak_debug/work/target/result/demoniak_stability_rest/areas/part_areas_9012.mat was successfully generated!
 
 *********************************************************
-01-Jun-2016 19:06:15 : The job was successfully completed
-Total time used to process the job : 0.11 sec.
+01-Jun-2016 19:39:56 : The job was successfully completed
+Total time used to process the job : 0.05 sec.
 *********************************************************
 
 ******************************
-Log of the (octave) job : gcon_cambridge100_glm_mean_subjects
-Started on 01-Jun-2016 19:06:15
+Log of the (octave) job : basc_region_growing_area_9062
+Started on 01-Jun-2016 19:39:56
 User: 
-host : 8747219a617e
+host : 295bdd45cb7b
+system : unix
+******************************
+
+**************
+Region growing
+**************
+Read the time series tseries_9062 from the file /niak/niak_debug/work/target/result/demoniak_stability_rest/areas/tseries_areas_subject1_session1_motor.mat
+Read the time series tseries_9062 from the file /niak/niak_debug/work/target/result/demoniak_stability_rest/areas/tseries_areas_subject2_session1_motor.mat
+Concatenate time series
+Read the neighbourhood information neig_9062 from file /niak/niak_debug/work/target/result/demoniak_stability_rest//areas/brain_areas_neig.mat
+Performing region growing...
+     Initialization of the functional similarity matrix...
+     Number of merging :  3 2 1 0     Done ! 
+Saving outputs...
+
+
+The output file or directory /niak/niak_debug/work/target/result/demoniak_stability_rest/areas/part_areas_9062.mat was successfully generated!
+
+*********************************************************
+01-Jun-2016 19:39:56 : The job was successfully completed
+Total time used to process the job : 0.05 sec.
+*********************************************************
+
+******************************
+Log of the (octave) job : basc_region_growing_area_9150
+Started on 01-Jun-2016 19:39:56
+User: 
+host : 295bdd45cb7b
+system : unix
+******************************
+
+**************
+Region growing
+**************
+Read the time series tseries_9150 from the file /niak/niak_debug/work/target/result/demoniak_stability_rest/areas/tseries_areas_subject1_session1_motor.mat
+Read the time series tseries_9150 from the file /niak/niak_debug/work/target/result/demoniak_stability_rest/areas/tseries_areas_subject2_session1_motor.mat
+Concatenate time series
+Read the neighbourhood information neig_9150 from file /niak/niak_debug/work/target/result/demoniak_stability_rest//areas/brain_areas_neig.mat
+Performing region growing...
+     Initialization of the functional similarity matrix...
+     Number of merging :  1 0     Done ! 
+Saving outputs...
+
+
+The output file or directory /niak/niak_debug/work/target/result/demoniak_stability_rest/areas/part_areas_9150.mat was successfully generated!
+
+*********************************************************
+01-Jun-2016 19:39:56 : The job was successfully completed
+Total time used to process the job : 0.03 sec.
+*********************************************************
+Deleting file '/niak/niak_debug/work/target/result/logs/worker/psom10/new_jobs.mat' 
+Deleting file '/niak/niak_debug/work/target/result/logs/worker/psom10/new_jobs.ready' 
+
+******************************
+Log of the (octave) job : gcon_cambridge100bis_glm_mean_subjects
+Started on 01-Jun-2016 19:39:57
+User: 
+host : 295bdd45cb7b
 system : unix
 ******************************
 Reading the group model ...
@@ -661,73 +772,69 @@ Estimate model...
 Generating volumes ...
 
 
-The output file or directory /niak/niak_debug/work/target/result/demoniak_glm_connectome/cambridge100/mean_subjects/glm_mean_subjects_cambridge100.mat was successfully generated!
-The output file or directory /niak/niak_debug/work/target/result/demoniak_glm_connectome/cambridge100/mean_subjects/ttest_mean_subjects_cambridge100.mnc.gz was successfully generated!
-The output file or directory /niak/niak_debug/work/target/result/demoniak_glm_connectome/cambridge100/mean_subjects/effect_mean_subjects_cambridge100.mnc.gz was successfully generated!
-The output file or directory /niak/niak_debug/work/target/result/demoniak_glm_connectome/cambridge100/mean_subjects/std_mean_subjects_cambridge100.mnc.gz was successfully generated!
-The output file or directory /niak/niak_debug/work/target/result/demoniak_glm_connectome/cambridge100/mean_subjects/fdr_mean_subjects_cambridge100.mnc.gz was successfully generated!
-The output file or directory /niak/niak_debug/work/target/result/demoniak_glm_connectome/cambridge100/mean_subjects/perc_disc_mean_subjects_cambridge100.mnc.gz was successfully generated!
+The output file or directory /niak/niak_debug/work/target/result/demoniak_glm_connectome/cambridge100bis/mean_subjects/glm_mean_subjects_cambridge100bis.mat was successfully generated!
+The output file or directory /niak/niak_debug/work/target/result/demoniak_glm_connectome/cambridge100bis/mean_subjects/ttest_mean_subjects_cambridge100bis.mnc.gz was successfully generated!
+The output file or directory /niak/niak_debug/work/target/result/demoniak_glm_connectome/cambridge100bis/mean_subjects/effect_mean_subjects_cambridge100bis.mnc.gz was successfully generated!
+The output file or directory /niak/niak_debug/work/target/result/demoniak_glm_connectome/cambridge100bis/mean_subjects/std_mean_subjects_cambridge100bis.mnc.gz was successfully generated!
+The output file or directory /niak/niak_debug/work/target/result/demoniak_glm_connectome/cambridge100bis/mean_subjects/fdr_mean_subjects_cambridge100bis.mnc.gz was successfully generated!
+The output file or directory /niak/niak_debug/work/target/result/demoniak_glm_connectome/cambridge100bis/mean_subjects/perc_disc_mean_subjects_cambridge100bis.mnc.gz was successfully generated!
 
 *********************************************************
-01-Jun-2016 19:06:17 : The job was successfully completed
-Total time used to process the job : 2.10 sec.
-*********************************************************
-
-******************************
-Log of the (octave) job : gcon_cambridge100bis_glm_mean_motor_site
-Started on 01-Jun-2016 19:06:17
-User: 
-host : 8747219a617e
-system : unix
-******************************
-Reading the group model ...
-Estimate model site 1 ...
-Estimate model site 2 ...
-Generating volumes ...
-
-
-The output file or directory /niak/niak_debug/work/target/result/demoniak_glm_connectome/cambridge100bis/mean_motor_site/glm_mean_motor_site_cambridge100bis.mat was successfully generated!
-The output file or directory /niak/niak_debug/work/target/result/demoniak_glm_connectome/cambridge100bis/mean_motor_site/ttest_mean_motor_site_cambridge100bis.mnc.gz was successfully generated!
-The output file or directory /niak/niak_debug/work/target/result/demoniak_glm_connectome/cambridge100bis/mean_motor_site/effect_mean_motor_site_cambridge100bis.mnc.gz was successfully generated!
-The output file or directory /niak/niak_debug/work/target/result/demoniak_glm_connectome/cambridge100bis/mean_motor_site/std_mean_motor_site_cambridge100bis.mnc.gz was successfully generated!
-The output file or directory /niak/niak_debug/work/target/result/demoniak_glm_connectome/cambridge100bis/mean_motor_site/fdr_mean_motor_site_cambridge100bis.mnc.gz was successfully generated!
-The output file or directory /niak/niak_debug/work/target/result/demoniak_glm_connectome/cambridge100bis/mean_motor_site/perc_disc_mean_motor_site_cambridge100bis.mnc.gz was successfully generated!
-
-*********************************************************
-01-Jun-2016 19:06:18 : The job was successfully completed
-Total time used to process the job : 1.29 sec.
+01-Jun-2016 19:39:59 : The job was successfully completed
+Total time used to process the job : 1.90 sec.
 *********************************************************
 Deleting file '/niak/niak_debug/work/target/result/logs/worker/psom10/new_jobs.mat' 
 Deleting file '/niak/niak_debug/work/target/result/logs/worker/psom10/new_jobs.ready' 
 
 ******************************
-Log of the (octave) job : fir_summary_stability_avg_ind
-Started on 01-Jun-2016 19:06:35
+Log of the (octave) job : gcon_permutation_mean_subjects_batch_2
+Started on 01-Jun-2016 19:39:59
 User: 
-host : 8747219a617e
+host : 295bdd45cb7b
 system : unix
 ******************************
-Generating a summary of the stability contrast analysis
-Reading the measures of stability contrast ...
-    /niak/niak_debug/work/target/result/demoniak_stability_fir/stability_ind/subject1/stability_ind_subject1.mat
-    /niak/niak_debug/work/target/result/demoniak_stability_fir/stability_ind/subject2/stability_ind_subject2.mat
-Building table of local max ...
-Building a figure of group summary measures ...
+Estimate the significance of the number of findings ...
+    Percentage done: 65 100
+
+
+The output file or directory /niak/niak_debug/work/target/result/demoniak_glm_connectome/permutation_test/permutation_mean_subjects_batch_2.mat was successfully generated!
+
+*********************************************************
+01-Jun-2016 19:40:00 : The job was successfully completed
+Total time used to process the job : 0.13 sec.
+*********************************************************
+Deleting file '/niak/niak_debug/work/target/result/logs/worker/psom10/new_jobs.mat' 
+Deleting file '/niak/niak_debug/work/target/result/logs/worker/psom10/new_jobs.ready' 
+
+******************************
+Log of the (octave) job : basc_figure_stability_ind_subject2
+Started on 01-Jun-2016 19:40:15
+User: 
+host : 295bdd45cb7b
+system : unix
+******************************
+
+******************************************************************************
+Generating a figure representing the stability matrix and associated partition
+******************************************************************************
+ Generating file ...
+    /niak/niak_debug/work/target/result/demoniak_stability_rest/stability_ind/subject2/sci5_scf5/figure_stability_ind_subject2_sci5_scf5.pdf
 warning: print.m: epstool binary is not available.
 Some output formats are not available.
 warning: print.m: fig2dev binary is not available.
 Some output formats are not available.
-Done!
+    /niak/niak_debug/work/target/result/demoniak_stability_rest/stability_ind/subject2/sci10_scf10/figure_stability_ind_subject2_sci10_scf10.pdf
+
+Done !
 
 
-The output file or directory /niak/niak_debug/work/target/result/demoniak_stability_fir/stability_ind/summary_stab_avg_ind.mat was successfully generated!
-The output file or directory /niak/niak_debug/work/target/result/demoniak_stability_fir/stability_ind/summary_stab_avg_ind_figure.pdf was successfully generated!
-The output file or directory /niak/niak_debug/work/target/result/demoniak_stability_fir/stability_ind/summary_stab_avg_ind_table.csv was successfully generated!
+The output file or directory /niak/niak_debug/work/target/result/demoniak_stability_rest/stability_ind/subject2/sci5_scf5/figure_stability_ind_subject2_sci5_scf5.pdf was successfully generated!
+The output file or directory /niak/niak_debug/work/target/result/demoniak_stability_rest/stability_ind/subject2/sci10_scf10/figure_stability_ind_subject2_sci10_scf10.pdf was successfully generated!
 
 *********************************************************
-01-Jun-2016 19:06:38 : The job was successfully completed
-Total time used to process the job : 2.91 sec.
+01-Jun-2016 19:40:20 : The job was successfully completed
+Total time used to process the job : 4.67 sec.
 *********************************************************
-01-Jun-2016 19:07:06 - The manager has requested to end the work asap!
-01-Jun-2016 19:07:07 - The manager has requested to end the work asap!
+01-Jun-2016 19:40:44 - The manager has requested to end the work asap!
+01-Jun-2016 19:40:44 - The manager has requested to end the work asap!
 

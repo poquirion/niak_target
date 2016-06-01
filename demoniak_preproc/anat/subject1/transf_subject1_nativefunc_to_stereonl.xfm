@@ -1,5 +1,5 @@
 MNI Transform File
-%Wed Jun  1 19:04:41 2016>>> xfmconcat /niak/niak_debug/work/target/result/demoniak_preproc/anat/subject1/transf_subject1_nativefunc_to_stereolin.xfm /niak/niak_debug/work/target/result/demoniak_preproc/anat/subject1/transf_subject1_stereolin_to_stereonl.xfm /niak/niak_debug/work/target/result/demoniak_preproc/anat/subject1/transf_subject1_nativefunc_to_stereonl.xfm
+%Wed Jun  1 19:38:28 2016>>> xfmconcat /niak/niak_debug/work/target/result/demoniak_preproc/anat/subject1/transf_subject1_nativefunc_to_stereolin.xfm /niak/niak_debug/work/target/result/demoniak_preproc/anat/subject1/transf_subject1_stereolin_to_stereonl.xfm /niak/niak_debug/work/target/result/demoniak_preproc/anat/subject1/transf_subject1_nativefunc_to_stereonl.xfm
 
 Transform_Type = Linear;
 Linear_Transform =
