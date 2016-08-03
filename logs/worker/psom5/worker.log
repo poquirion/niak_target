@@ -1,66 +1,6 @@
 Octave version 4.0.0
 Minc-tool-kit version 1.9.11-20160202
 NIAK quarantine /niak/niak_debug/niak/commands/misc/niak_gb_vars.m
-Deleting file '/niak/niak_debug/work/target/result/logs/worker/psom5/new_jobs.mat' 
-Deleting file '/niak/niak_debug/work/target/result/logs/worker/psom5/new_jobs.ready' 
-
-******************************
-Log of the (octave) job : basc_tseries_mixed_subject1
-Started on 03-Aug-2016 18:27:00
-User: 
-host : 6a634a6a41ee
-system : unix
-******************************
-
-*
-Extracting time series with a 'mean_var' temporal correction
-*
-Dataset /niak/niak_debug/work/target/result/demoniak_stability_rest/rois/tseries_rois_subject1_session1_motor.mat...
-
-
-The output file or directory /niak/niak_debug/work/target/result/demoniak_stability_rest/stability_mixed/subject1/sci5_scg5_scf5/tseries_mixed_consensus_sci5_scg5_scf5_subject1_session1_motor.mat was successfully generated!
-The output file or directory /niak/niak_debug/work/target/result/demoniak_stability_rest/stability_mixed/subject1/sci10_scg10_scf10/tseries_mixed_consensus_sci10_scg10_scf10_subject1_session1_motor.mat was successfully generated!
-
-*********************************************************
-03-Aug-2016 18:27:02 : The job was successfully completed
-Total time used to process the job : 1.46 sec.
-*********************************************************
-
-******************************
-Log of the (octave) job : fp_rep_average_func_stereo
-Started on 03-Aug-2016 18:27:02
-User: 
-host : 6a634a6a41ee
-system : unix
-******************************
-warning: print.m: epstool binary is not available.
-Some output formats are not available.
-warning: print.m: fig2dev binary is not available.
-Some output formats are not available.
-
-
-The output file or directory /niak/niak_debug/work/target/result/demoniak_preproc/report/group/average_func_stereotaxic.png was successfully generated!
-
-*********************************************************
-03-Aug-2016 18:27:03 : The job was successfully completed
-Total time used to process the job : 1.46 sec.
-*********************************************************
-
-******************************
-Log of the (octave) job : fp_rep_motion_native_subject2_session1_motor
-Started on 03-Aug-2016 18:27:03
-User: 
-host : 6a634a6a41ee
-system : unix
-******************************
-warning: your version of GraphicsMagick limits images to 16 bits per pixel
-
-
-The output file or directory /niak/niak_debug/work/target/result/demoniak_preproc/report/motion/motion_native_subject2_session1_motor.png was successfully generated!
-
-*********************************************************
-03-Aug-2016 18:27:04 : The job was successfully completed
-Total time used to process the job : 0.71 sec.
-*********************************************************
-03-Aug-2016 18:27:05 - The manager has requested to end the work asap!
+03-Aug-2016 18:52:06 - The manager has requested to end the work asap!
+03-Aug-2016 18:52:06 - The manager has requested to end the work asap!
 

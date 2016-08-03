@@ -5,108 +5,21 @@ Deleting file '/niak/niak_debug/work/target/result/logs/worker/psom2/new_jobs.ma
 Deleting file '/niak/niak_debug/work/target/result/logs/worker/psom2/new_jobs.ready' 
 
 ******************************
-Log of the (octave) job : fp_cp_template
-Started on 03-Aug-2016 18:27:00
+Log of the (octave) job : fp_rep_motion_native_subject2_session1_motor
+Started on 03-Aug-2016 18:52:06
 User: 
-host : 6a634a6a41ee
-system : unix
-******************************
-Copying or converting file /niak/niak_debug/work/target/data_test_niak_mnc1//mni_icbm152_asym_09a_5mm/mni_icbm152_t1_tal_nlin_asym_09a_5mm.mnc.gz to /niak/niak_debug/work/target/result/demoniak_preproc/anat/template_anat_stereo.mnc.gz
-
-
-The output file or directory /niak/niak_debug/work/target/result/demoniak_preproc/anat/template_anat_stereo.mnc.gz was successfully generated!
-
-*********************************************************
-03-Aug-2016 18:27:00 : The job was successfully completed
-Total time used to process the job : 0.06 sec.
-*********************************************************
-
-******************************
-Log of the (octave) job : fp_rep_summary_func
-Started on 03-Aug-2016 18:27:00
-User: 
-host : 6a634a6a41ee
-system : unix
-******************************
-
-
-The output file or directory /niak/niak_debug/work/target/result/demoniak_preproc/report/summary/chartBOLD.js was successfully generated!
-
-*********************************************************
-03-Aug-2016 18:27:00 : The job was successfully completed
-Total time used to process the job : 0.01 sec.
-*********************************************************
-
-******************************
-Log of the (octave) job : fp_rep_summary_scrubbing
-Started on 03-Aug-2016 18:27:00
-User: 
-host : 6a634a6a41ee
-system : unix
-******************************
-
-
-The output file or directory /niak/niak_debug/work/target/result/demoniak_preproc/report/summary/fd.js was successfully generated!
-
-*********************************************************
-03-Aug-2016 18:27:00 : The job was successfully completed
-Total time used to process the job : 0.02 sec.
-*********************************************************
-Deleting file '/niak/niak_debug/work/target/result/logs/worker/psom2/new_jobs.mat' 
-Deleting file '/niak/niak_debug/work/target/result/logs/worker/psom2/new_jobs.ready' 
-
-******************************
-Log of the (octave) job : fp_rep_motion_report
-Started on 03-Aug-2016 18:27:00
-User: 
-host : 6a634a6a41ee
-system : unix
-******************************
-
-
-The output file or directory /niak/niak_debug/work/target/result/demoniak_preproc/report/motion/motion.html was successfully generated!
-
-*********************************************************
-03-Aug-2016 18:27:00 : The job was successfully completed
-Total time used to process the job : 0.06 sec.
-*********************************************************
-
-******************************
-Log of the (octave) job : fp_rep_motion_stereo_subject1_session1_motor
-Started on 03-Aug-2016 18:27:00
-User: 
-host : 6a634a6a41ee
+host : 39fe77f032b3
 system : unix
 ******************************
 warning: your version of GraphicsMagick limits images to 16 bits per pixel
 
 
-The output file or directory /niak/niak_debug/work/target/result/demoniak_preproc/report/motion/motion_stereo_subject1_session1_motor.png was successfully generated!
+The output file or directory /niak/niak_debug/work/target/result/demoniak_preproc/report/motion/motion_native_subject2_session1_motor.png was successfully generated!
 
 *********************************************************
-03-Aug-2016 18:27:02 : The job was successfully completed
-Total time used to process the job : 1.59 sec.
+03-Aug-2016 18:52:06 : The job was successfully completed
+Total time used to process the job : 0.89 sec.
 *********************************************************
-
-******************************
-Log of the (octave) job : fp_rep_template_stereo
-Started on 03-Aug-2016 18:27:02
-User: 
-host : 6a634a6a41ee
-system : unix
-******************************
-warning: print.m: epstool binary is not available.
-Some output formats are not available.
-warning: print.m: fig2dev binary is not available.
-Some output formats are not available.
-
-
-The output file or directory /niak/niak_debug/work/target/result/demoniak_preproc/report/group/template_stereotaxic.png was successfully generated!
-
-*********************************************************
-03-Aug-2016 18:27:04 : The job was successfully completed
-Total time used to process the job : 1.38 sec.
-*********************************************************
-03-Aug-2016 18:27:04 - The manager has requested to end the work asap!
-03-Aug-2016 18:27:04 - The manager has requested to end the work asap!
+03-Aug-2016 18:52:07 - The manager has requested to end the work asap!
+03-Aug-2016 18:52:07 - The manager has requested to end the work asap!
 

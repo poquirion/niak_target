@@ -151,6 +151,7 @@ Could not find logs for job basc_tseries_group_subject1
 Could not find logs for job basc_tseries_group_subject2
 Could not find logs for job basc_tseries_ind_subject1
 Could not find logs for job basc_tseries_ind_subject2
+Could not find logs for job basc_tseries_mixed_subject1
 Could not find logs for job basc_tseries_mixed_subject2
 Could not find logs for job basc_tseries_subject1_session1_motor
 Could not find logs for job basc_tseries_subject2_session1_motor
@@ -317,6 +318,7 @@ Could not find logs for job fp_build_confounds_subject2_session1_motor
 Could not find logs for job fp_concat_transf_nl_subject1
 Could not find logs for job fp_concat_transf_nl_subject2
 Could not find logs for job fp_cp_confounds_keys
+Could not find logs for job fp_cp_template
 Could not find logs for job fp_mask_anat2func_subject1
 Could not find logs for job fp_mask_anat2func_subject2
 Could not find logs for job fp_mask_confounds_subject1
@@ -327,6 +329,7 @@ Could not find logs for job fp_motion_parameters_subject1_session1_motor
 Could not find logs for job fp_motion_parameters_subject2_session1_motor
 Could not find logs for job fp_motion_target_subject1_session1_motor
 Could not find logs for job fp_motion_target_subject2_session1_motor
+Could not find logs for job fp_pipe_params
 Could not find logs for job fp_qc_coregister_group_anat_stereolin
 Could not find logs for job fp_qc_group_coregister_anat_stereonl
 Could not find logs for job fp_qc_group_coregister_func
@@ -336,6 +339,31 @@ Could not find logs for job fp_qc_motion_subject1
 Could not find logs for job fp_qc_motion_subject2
 Could not find logs for job fp_regress_confounds_subject1_session1_motor
 Could not find logs for job fp_regress_confounds_subject2_session1_motor
+Could not find logs for job fp_rep_average_func_stereo
+Could not find logs for job fp_rep_average_t1_stereo
+Could not find logs for job fp_rep_avg_mask_func_stereo
+Could not find logs for job fp_rep_bold_subject1
+Could not find logs for job fp_rep_bold_subject2
+Could not find logs for job fp_rep_cp_report_templates
+Could not find logs for job fp_rep_mask_func_group_stereo
+Could not find logs for job fp_rep_motion_ind_subject1_session1_motor
+Could not find logs for job fp_rep_motion_ind_subject2_session1_motor
+Could not find logs for job fp_rep_motion_native_subject1_session1_motor
+Could not find logs for job fp_rep_motion_report
+Could not find logs for job fp_rep_motion_report_subject1_session1_motor
+Could not find logs for job fp_rep_motion_report_subject2_session1_motor
+Could not find logs for job fp_rep_motion_stereo_subject1_session1_motor
+Could not find logs for job fp_rep_params
+Could not find logs for job fp_rep_summary_anat
+Could not find logs for job fp_rep_summary_func
+Could not find logs for job fp_rep_summary_intra
+Could not find logs for job fp_rep_summary_scrubbing
+Could not find logs for job fp_rep_t1_subject1
+Could not find logs for job fp_rep_t1_subject2
+Could not find logs for job fp_rep_target_native_subject1_session1_motor
+Could not find logs for job fp_rep_target_native_subject2_session1_motor
+Could not find logs for job fp_rep_target_stereo_subject1_session1_motor
+Could not find logs for job fp_rep_target_stereo_subject2_session1_motor
 Could not find logs for job fp_resample_aal
 Could not find logs for job fp_resample_fmri_stereo
 Could not find logs for job fp_resample_subject1_session1_motor
@@ -546,33 +574,3 @@ Could not find logs for job sco_scores_resample_mask
 Could not find logs for job sco_scores_resample_part
 Could not find logs for job sco_scores_subject1_session1_motor
 Could not find logs for job sco_scores_subject2_session1_motor
-Collecting logs of job fp_cp_template
-Collecting logs of job fp_pipe_params
-Collecting logs of job fp_rep_cp_report_templates
-Collecting logs of job fp_rep_motion_ind_subject1_session1_motor
-Collecting logs of job fp_rep_motion_native_subject1_session1_motor
-Collecting logs of job fp_rep_motion_report
-Collecting logs of job fp_rep_summary_anat
-Collecting logs of job fp_rep_summary_func
-Collecting logs of job fp_rep_summary_scrubbing
-Collecting logs of job fp_rep_summary_intra
-Collecting logs of job basc_tseries_mixed_subject1
-Collecting logs of job fp_rep_average_t1_stereo
-Collecting logs of job fp_rep_avg_mask_func_stereo
-Collecting logs of job fp_rep_bold_subject1
-Collecting logs of job fp_rep_bold_subject2
-Collecting logs of job fp_rep_mask_func_group_stereo
-Collecting logs of job fp_rep_motion_ind_subject2_session1_motor
-Collecting logs of job fp_rep_motion_report_subject1_session1_motor
-Collecting logs of job fp_rep_motion_report_subject2_session1_motor
-Collecting logs of job fp_rep_motion_stereo_subject1_session1_motor
-Collecting logs of job fp_rep_params
-Collecting logs of job fp_rep_t1_subject1
-Collecting logs of job fp_rep_t1_subject2
-Collecting logs of job fp_rep_target_native_subject1_session1_motor
-Collecting logs of job fp_rep_average_func_stereo
-Collecting logs of job fp_rep_target_native_subject2_session1_motor
-Collecting logs of job fp_rep_target_stereo_subject1_session1_motor
-Collecting logs of job fp_rep_target_stereo_subject2_session1_motor
-Collecting logs of job fp_rep_motion_stereo_subject2_session1_motor
-Collecting logs of job fp_rep_template_stereo

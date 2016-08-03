@@ -1,61 +1,6 @@
 Octave version 4.0.0
 Minc-tool-kit version 1.9.11-20160202
 NIAK quarantine /niak/niak_debug/niak/commands/misc/niak_gb_vars.m
-Deleting file '/niak/niak_debug/work/target/result/logs/worker/psom4/new_jobs.mat' 
-Deleting file '/niak/niak_debug/work/target/result/logs/worker/psom4/new_jobs.ready' 
-
-******************************
-Log of the (octave) job : fp_rep_average_t1_stereo
-Started on 03-Aug-2016 18:27:00
-User: 
-host : 6a634a6a41ee
-system : unix
-******************************
-warning: print.m: epstool binary is not available.
-Some output formats are not available.
-warning: print.m: fig2dev binary is not available.
-Some output formats are not available.
-
-
-The output file or directory /niak/niak_debug/work/target/result/demoniak_preproc/report/group/average_t1_stereotaxic.png was successfully generated!
-
-*********************************************************
-03-Aug-2016 18:27:02 : The job was successfully completed
-Total time used to process the job : 2.02 sec.
-*********************************************************
-
-******************************
-Log of the (octave) job : fp_rep_motion_report_subject2_session1_motor
-Started on 03-Aug-2016 18:27:03
-User: 
-host : 6a634a6a41ee
-system : unix
-******************************
-
-
-The output file or directory /niak/niak_debug/work/target/result/demoniak_preproc/report/motion/motion_report_subject2_session1_motor.html was successfully generated!
-
-*********************************************************
-03-Aug-2016 18:27:03 : The job was successfully completed
-Total time used to process the job : 0.06 sec.
-*********************************************************
-
-******************************
-Log of the (octave) job : fp_rep_target_stereo_subject1_session1_motor
-Started on 03-Aug-2016 18:27:03
-User: 
-host : 6a634a6a41ee
-system : unix
-******************************
-warning: your version of GraphicsMagick limits images to 16 bits per pixel
-
-
-The output file or directory /niak/niak_debug/work/target/result/demoniak_preproc/report/motion/target_stereo_subject1_session1_motor.png was successfully generated!
-
-*********************************************************
-03-Aug-2016 18:27:03 : The job was successfully completed
-Total time used to process the job : 0.79 sec.
-*********************************************************
-03-Aug-2016 18:27:04 - The manager has requested to end the work asap!
-03-Aug-2016 18:27:04 - The manager has requested to end the work asap!
+03-Aug-2016 18:52:06 - The manager has requested to end the work asap!
+03-Aug-2016 18:52:06 - The manager has requested to end the work asap!
 
