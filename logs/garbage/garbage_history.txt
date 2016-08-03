@@ -574,3 +574,8 @@ Could not find logs for job sco_scores_resample_mask
 Could not find logs for job sco_scores_resample_part
 Could not find logs for job sco_scores_subject1_session1_motor
 Could not find logs for job sco_scores_subject2_session1_motor
+Collecting logs of job fp_rep_motion_native_subject2_session1_motor
+Collecting logs of job fp_rep_motion_stereo_subject2_session1_motor
+Collecting logs of job fp_rep_template_stereo
+Pipeline exited
+

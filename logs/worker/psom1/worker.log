@@ -5,10 +5,27 @@ Deleting file '/niak/niak_debug/work/target/result/logs/worker/psom1/new_jobs.ma
 Deleting file '/niak/niak_debug/work/target/result/logs/worker/psom1/new_jobs.ready' 
 
 ******************************
-Log of the (octave) job : fp_rep_template_stereo
-Started on 03-Aug-2016 18:52:06
+Log of the (octave) job : fp_rep_motion_stereo_subject2_session1_motor
+Started on 03-Aug-2016 20:24:02
 User: 
-host : 39fe77f032b3
+host : 9494ba5e2e8b
+system : unix
+******************************
+warning: your version of GraphicsMagick limits images to 16 bits per pixel
+
+
+The output file or directory /niak/niak_debug/work/target/result/demoniak_preproc/report/motion/motion_stereo_subject2_session1_motor.png was successfully generated!
+
+*********************************************************
+03-Aug-2016 20:24:03 : The job was successfully completed
+Total time used to process the job : 0.98 sec.
+*********************************************************
+
+******************************
+Log of the (octave) job : fp_rep_template_stereo
+Started on 03-Aug-2016 20:24:03
+User: 
+host : 9494ba5e2e8b
 system : unix
 ******************************
 warning: print.m: epstool binary is not available.
@@ -20,9 +37,9 @@ Some output formats are not available.
 The output file or directory /niak/niak_debug/work/target/result/demoniak_preproc/report/group/template_stereotaxic.png was successfully generated!
 
 *********************************************************
-03-Aug-2016 18:52:07 : The job was successfully completed
-Total time used to process the job : 1.00 sec.
+03-Aug-2016 20:24:04 : The job was successfully completed
+Total time used to process the job : 0.77 sec.
 *********************************************************
-03-Aug-2016 18:52:07 - The manager has requested to end the work asap!
-03-Aug-2016 18:52:07 - The manager has requested to end the work asap!
+03-Aug-2016 20:24:04 - The manager has requested to end the work asap!
+03-Aug-2016 20:24:04 - The manager has requested to end the work asap!
 

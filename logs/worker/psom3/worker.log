@@ -1,25 +1,6 @@
 Octave version 4.0.0
 Minc-tool-kit version 1.9.11-20160202
 NIAK quarantine /niak/niak_debug/niak/commands/misc/niak_gb_vars.m
-Deleting file '/niak/niak_debug/work/target/result/logs/worker/psom3/new_jobs.mat' 
-Deleting file '/niak/niak_debug/work/target/result/logs/worker/psom3/new_jobs.ready' 
-
-******************************
-Log of the (octave) job : fp_rep_motion_stereo_subject2_session1_motor
-Started on 03-Aug-2016 18:52:05
-User: 
-host : 39fe77f032b3
-system : unix
-******************************
-warning: your version of GraphicsMagick limits images to 16 bits per pixel
-
-
-The output file or directory /niak/niak_debug/work/target/result/demoniak_preproc/report/motion/motion_stereo_subject2_session1_motor.png was successfully generated!
-
-*********************************************************
-03-Aug-2016 18:52:06 : The job was successfully completed
-Total time used to process the job : 0.95 sec.
-*********************************************************
-03-Aug-2016 18:52:07 - The manager has requested to end the work asap!
-03-Aug-2016 18:52:07 - The manager has requested to end the work asap!
+03-Aug-2016 20:24:03 - The manager has requested to end the work asap!
+03-Aug-2016 20:24:03 - The manager has requested to end the work asap!
 

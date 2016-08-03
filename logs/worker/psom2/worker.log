@@ -6,9 +6,9 @@ Deleting file '/niak/niak_debug/work/target/result/logs/worker/psom2/new_jobs.re
 
 ******************************
 Log of the (octave) job : fp_rep_motion_native_subject2_session1_motor
-Started on 03-Aug-2016 18:52:06
+Started on 03-Aug-2016 20:24:02
 User: 
-host : 39fe77f032b3
+host : 9494ba5e2e8b
 system : unix
 ******************************
 warning: your version of GraphicsMagick limits images to 16 bits per pixel
@@ -17,9 +17,9 @@ warning: your version of GraphicsMagick limits images to 16 bits per pixel
 The output file or directory /niak/niak_debug/work/target/result/demoniak_preproc/report/motion/motion_native_subject2_session1_motor.png was successfully generated!
 
 *********************************************************
-03-Aug-2016 18:52:06 : The job was successfully completed
-Total time used to process the job : 0.89 sec.
+03-Aug-2016 20:24:03 : The job was successfully completed
+Total time used to process the job : 1.03 sec.
 *********************************************************
-03-Aug-2016 18:52:07 - The manager has requested to end the work asap!
-03-Aug-2016 18:52:07 - The manager has requested to end the work asap!
+03-Aug-2016 20:24:04 - The manager has requested to end the work asap!
+03-Aug-2016 20:24:04 - The manager has requested to end the work asap!
 
