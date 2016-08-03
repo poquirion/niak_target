@@ -1,0 +1,17 @@
+
+******************************
+Log of the (octave) job : fp_rep_motion_native_subject2_session1_motor
+Started on 03-Aug-2016 18:27:03
+User: 
+host : 6a634a6a41ee
+system : unix
+******************************
+warning: your version of GraphicsMagick limits images to 16 bits per pixel
+
+
+The output file or directory /niak/niak_debug/work/target/result/demoniak_preproc/report/motion/motion_native_subject2_session1_motor.png was successfully generated!
+
+*********************************************************
+03-Aug-2016 18:27:04 : The job was successfully completed
+Total time used to process the job : 0.71 sec.
+*********************************************************
