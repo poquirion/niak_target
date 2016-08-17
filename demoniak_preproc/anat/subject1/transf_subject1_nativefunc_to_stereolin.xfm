@@ -1,5 +1,5 @@
 MNI Transform File
-%Wed Aug  3 17:41:22 2016>>> xfminvert -clobber /tmp/niak_tmp_fp_anat2func_subject1_553821538_coregister/transf_est.xfm /niak/niak_debug/work/target/result/demoniak_preproc/anat/subject1/transf_subject1_nativefunc_to_stereolin.xfm
+%Wed Aug 17 18:49:56 2016>>> xfminvert -clobber /tmp/niak_tmp_fp_anat2func_subject1_585045880_coregister/transf_est.xfm /niak/niak_debug/work/target/result/demoniak_preproc/anat/subject1/transf_subject1_nativefunc_to_stereolin.xfm
 
 Transform_Type = Linear;
 Linear_Transform =
